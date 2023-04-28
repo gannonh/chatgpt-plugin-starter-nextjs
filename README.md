@@ -6,7 +6,7 @@ This is a clone of the [OpenAI plugins quickstart](https://github.com/openai/plu
 
 ## ChatGPT Plugins
 
-ChatGPT Plugins are an alpha feature pf ChapGPT and you need to join the [waitlist](https://openai.com/waitlist/plugins) to get access. Once granted access you'll get an email from OpenAI and the plugins interface will be available to you in ChatGPT. While not ideal, you can however begin developing plugins without access.
+ChatGPT Plugins are an alpha feature of ChapGPT and you need to join the [waitlist](https://openai.com/waitlist/plugins) to get access. Once granted access you'll get an email from OpenAI and the plugins interface will be available to you in ChatGPT. While not ideal, you can however begin developing plugins (which are simply API routes) without access.
 
 OpenAI plugins connect ChatGPT to third-party applications. These plugins enable ChatGPT to interact with APIs, enhancing ChatGPT's capabilities and allowing it to perform a wide range of actions. Developing ChatGPT plugins involves building an API accompanied by a standardized manifest file and an OpenAPI specification. These define the plugin's functionality, allowing ChatGPT to make calls to you API routes. ChatGPT plugin APIs follow the OpenAPI specification (OpenAPI, aka Swagger, not OpenAI!), which allows ChatGPT to automatically generate a UI for the plugin. This UI is used to configure the plugin and to display the plugin's output. For more information on ChatGPT plugins, see the [documentation](https://platform.openai.com/docs/plugins/introduction).
 
