@@ -1,6 +1,8 @@
 # ChatGPT Plugin Starter TypeScript NextJS
 
-Like most new developments in the world of AI, there are plenty of Python examples but fewer examples to help you get started in Typescript/Javascript. This is a clone of the [OpenAI plugins quickstart](https://github.com/openai/plugins-quickstart) using NextJS and TypeScript. It uses the new Next 13 app routes, which are still "beta" so use at your own risk
+In the world of AI development, there are plenty of Python examples but far fewer in Typescript/Javascript.
+
+This is a clone of the [OpenAI plugins quickstart](https://github.com/openai/plugins-quickstart) using NextJS and TypeScript. It uses the new Next 13 app routes, which are still "beta" so use at your own risk!
 
 ## ChatGPT Plugins
 
