@@ -5,12 +5,12 @@ type TodosType = Todo[];
 
 let todos: TodosType = [];
 
-export const createTodo = (todo: Todo) => {
-  todos = [...todos, todo];
-};
-
 export const getTodos = (): TodosType => {
   return todos;
+};
+
+export const createTodo = (todo: Todo) => {
+  todos = [...todos, todo];
 };
 
 export const deleteTodo = (todo: Todo): void => {
