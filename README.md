@@ -45,8 +45,10 @@ Here are some commands you can try
 
 - What are my todos?
 - Add build a chatgpt plugin to my todos
-- How many open todos do I?
+- How many open todos do I have?
 
 ## Deploy with Vercel
+
+Click the button below to deploy on Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgannonh%2Fchatgpt-plugin-starter-nextjs)
